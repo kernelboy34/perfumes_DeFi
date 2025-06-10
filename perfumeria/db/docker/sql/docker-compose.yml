@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:latest
+    container_name: perfumeria_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: perfumeria_sql
+      MYSQL_DATABASE: perfume_datos
+      MYSQL_USER: perfumesadmin
+      MYSQL_PASSWORD: perfume_admin
+    ports:
+      - "3308:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
