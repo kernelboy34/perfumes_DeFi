@@ -1,0 +1,10 @@
+/Users/bernardopedrazas/perfumeria/backend/encryption_collatz/encriptador/target/debug/deps/libderive_utils-cf67d82d2254267b.rmeta: /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/lib.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/error.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/ast.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/parse.rs
+
+/Users/bernardopedrazas/perfumeria/backend/encryption_collatz/encriptador/target/debug/deps/libderive_utils-cf67d82d2254267b.rlib: /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/lib.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/error.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/ast.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/parse.rs
+
+/Users/bernardopedrazas/perfumeria/backend/encryption_collatz/encriptador/target/debug/deps/derive_utils-cf67d82d2254267b.d: /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/lib.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/error.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/ast.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/parse.rs
+
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/lib.rs:
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/error.rs:
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/ast.rs:
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.0/src/parse.rs:

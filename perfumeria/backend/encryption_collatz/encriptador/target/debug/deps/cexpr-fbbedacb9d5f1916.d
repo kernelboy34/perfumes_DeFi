@@ -1,0 +1,10 @@
+/Users/bernardopedrazas/perfumeria/backend/encryption_collatz/encriptador/target/debug/deps/libcexpr-fbbedacb9d5f1916.rmeta: /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/lib.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/expr.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/literal.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/token.rs
+
+/Users/bernardopedrazas/perfumeria/backend/encryption_collatz/encriptador/target/debug/deps/libcexpr-fbbedacb9d5f1916.rlib: /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/lib.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/expr.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/literal.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/token.rs
+
+/Users/bernardopedrazas/perfumeria/backend/encryption_collatz/encriptador/target/debug/deps/cexpr-fbbedacb9d5f1916.d: /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/lib.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/expr.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/literal.rs /Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/token.rs
+
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/lib.rs:
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/expr.rs:
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/literal.rs:
+/Users/bernardopedrazas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cexpr-0.6.0/src/token.rs:
